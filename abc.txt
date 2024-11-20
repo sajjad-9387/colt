@@ -3,3 +3,7 @@ apple
 banana
 mango
 g
+---
+green
+yellow
+pink
