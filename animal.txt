@@ -2,3 +2,4 @@ cat, dog, elephant,
 green red yellow,
 lahore
 PAKISTAN
+Child
